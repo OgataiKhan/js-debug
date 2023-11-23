@@ -96,8 +96,6 @@ console.log(otherCars);
 /* 3- Errori logici:
     1. La funzione in dieselCars viene scritta su più di una riga, quindi non ha il return implicito. La riscrivo in una riga sola.
     2. In otherCars stiamo controllando se auto.type non è "benzina" OPPURE "diesel", che sarà sempre vero. Dovrebbe essere un AND.
-
-    Purtroppo non riesco a trovare il sesto errore se effettivamente presente.
 */
 
 // Codice corretto:
